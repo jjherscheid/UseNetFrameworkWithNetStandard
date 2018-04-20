@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UseNetFrameworkWithNetStandard.NetStandardLib\UseNetFrameworkWithNetStandard.NetStandardLib.csproj" />
+  </ItemGroup>
+
 </Project>
